@@ -1,0 +1,158 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+  --cl-text: #ffffff;
+  --cl-red: #da0401;
+  --cl-yll: #ffff1a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  background: #000000;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  * {
+    color: var(--cl-text);
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1216px;
+}
+
+h1 {
+  font-size: 20px;
+  color: var(--cl-yll);
+}
+
+.lec-title {
+  color: var(--cl-yll);
+  font-size: 14px;
+}
+
+.lec-list li {
+  &:hover {
+    background: rgba($color: #ffffff, $alpha: 0.5);
+  }
+}
+
+.lecture-wrapper {
+  display: grid;
+  grid-template-columns: calc(100% - 400px) 400px;
+  gap: 30px;
+  overflow-y: hidden;
+  height: 100vh;
+  overflow-x: hidden;
+  padding: 10px;
+}
+
+.lecture-wrapper-ins:nth-child(2) {
+  border-left: 1px solid rgba($color: #ffffff, $alpha: 0.5);
+}
+
+li.active {
+  background: rgba($color: #ffffff, $alpha: 0.5);
+}
+
+.list-top {
+  overflow-y: scroll;
+  height: 100vh;
+  li {
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+}
+
+.video-js {
+  width: 100% !important;
+  height: calc(100vh - 100px) !important;
+}
+
+.img-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+figure.quiz {
+  height: 500px;
+  img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+  }
+}
+
+.video-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+
+  h1 {
+    text-align: left;
+    width: 100%;
+  }
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+@media only screen and (max-width: 1024px) {
+  h1 {
+    font-size: 18px;
+  }
+  .lecture-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    &-ins {
+      width: 100%;
+      &:first-child {
+        margin-bottom: 10px;
+      }
+      &:last-child {
+        height: calc(100% - 300px);
+      }
+    }
+  }
+  .list-top {
+    li {
+      padding: 5px 10px;
+      font-size: 13px;
+    }
+  }
+  .video-js {
+    min-height: 300px;
+    height: auto !important;
+  }
+
+  figure.quiz {
+    height: 250px;
+  }
+}

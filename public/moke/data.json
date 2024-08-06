@@ -1,0 +1,3264 @@
+{
+  "lectureGroup": [
+      {
+          "id": 0,
+          "title": "Giới thiệu"
+      },
+      {
+          "id": 1,
+          "title": "Phát âm"
+      },
+      {
+          "id": 2,
+          "title": "Chủ đề 1: Tên tuổi và chức danh"
+      },
+      {
+          "id": 3,
+          "title": "Chủ đề 2: Miểu tả người (ngoại hình)"
+      },
+      {
+          "id": 4,
+          "title": "Chủ đề 3: Quần áo"
+      },
+      {
+          "id": 5,
+          "title": "Chủ đề 4: Thời gian"
+      },
+      {
+          "id": 6,
+          "title": "Chủ đề 5: Ngày tháng"
+      },
+      {
+          "id": 7,
+          "title": "Chủ đề 6: Nghề nghiệp"
+      },
+      {
+          "id": 8,
+          "title": "Chủ đề 7: Thể dục thể thao"
+      },
+      {
+          "id": 9,
+          "title": "Chủ đề 8: Vị trí, địa điểm"
+      },
+      {
+          "id": 10,
+          "title": "Chủ đề 9: Gia đình"
+      },
+      {
+          "id": 11,
+          "title": "Chủ đề 10: Giải trí"
+      },
+      {
+          "id": 12,
+          "title": "Chủ đề 11: Giá cả"
+      },
+      {
+          "id": 13,
+          "title": "Chủ đề 12: Nhà hàng"
+      },
+      {
+          "id": 14,
+          "title": "Chủ đề 13: Hội thoại"
+      },
+      {
+          "id": 15,
+          "title": "Chủ đề 14: Kỳ nghỉ"
+      },
+      {
+          "id": 16,
+          "title": "Chủ đề 15: Cuộc sống ở chung cư"
+      },
+      {
+          "id": 17,
+          "title": "Chủ đề 16: Phim ảnh"
+      },
+      {
+          "id": 18,
+          "title": "Chủ đề 17: Thời tiết"
+      },
+      {
+          "id": 19,
+          "title": "Chủ đề 18: Mua sắm"
+      },
+      {
+          "id": 20,
+          "title": "Chủ đề 19: Gọi điện"
+      },
+      {
+          "id": 21,
+          "title": "Chủ đề 20: Mô tả đồ vật"
+      },
+      {
+          "id": 22,
+          "title": "Chủ đề 21: Chỉ đường"
+      },
+      {
+          "id": 23,
+          "title": "Chủ đề 22: Miêu tả người (tính cách)"
+      },
+      {
+          "id": 24,
+          "title": "Chủ đề 23: Địa danh"
+      },
+      {
+          "id": 25,
+          "title": "Chủ đề 24: Sức khỏe"
+      },
+      {
+          "id": 26,
+          "title": "Tổng kết"
+      }
+  ],
+  "lecture": {
+      "0": [
+          {
+              "lectureGroup": 0,
+              "index": 1,
+              "title": "Hướng dẫn chung",
+              "url": "https://course3.alexdsing.com/24day/video/intro_1/playlist.m3u8?v=5",
+              "time": "2:58",
+              "free": true
+          },
+          {
+              "lectureGroup": 0,
+              "index": 2,
+              "title": "Hướng dẫn học",
+              "url": "https://course3.alexdsing.com/24day/video/intro_2/playlist.m3u8?v=5",
+              "time": "4:52",
+              "free": true
+          }
+      ],
+      "1": [
+          {
+              "lectureGroup": 1,
+              "index": 11,
+              "title": "Tổng Quan 44 Âm trong bảng IPA",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_1/playlist.m3u8?v=5",
+              "time": "2:48",
+              "free": true
+          },
+          {
+              "lectureGroup": 1,
+              "index": 12,
+              "title": "Cách phát âm nguyên âm đơn Long - Short i",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_2/playlist.m3u8?v=5",
+              "time": "6:24",
+              "free": true
+          },
+          {
+              "lectureGroup": 1,
+              "index": 13,
+              "title": "Luyện tập NGHE nguyên âm đơn Long - short i",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_3/playlist.m3u8?v=5",
+              "time": "3:31",
+              "free": true
+          },
+          {
+              "lectureGroup": 1,
+              "index": 14,
+              "title": "Cách phát âm nguyên âm đơn Long - Short U",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_4/playlist.m3u8?v=5",
+              "time": "4:40",
+              "free": true
+          },
+          {
+              "lectureGroup": 1,
+              "index": 15,
+              "title": "Luyện tập NGHE nguyên âm đơn Long - short U",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_5/playlist.m3u8?v=5",
+              "time": "2:21",
+              "free": true
+          },
+          {
+              "lectureGroup": 1,
+              "index": 16,
+              "title": "Cách phát âm nguyên âm đơn e - ae",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_6/playlist.m3u8?v=5",
+              "time": "4:07"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 17,
+              "title": "Luyện tập NGHE nguyên âm đơn e - ae",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_7/playlist.m3u8?v=5",
+              "time": "4:41"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 18,
+              "title": "Cách phát âm nguyên âm đơn Long - Short a",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_8/playlist.m3u8?v=5",
+              "time": "3:51"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 19,
+              "title": "Luyện tập NGHE nguyên âm đơn Long - short a",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_9/playlist.m3u8?v=5",
+              "time": "7:50"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 110,
+              "title": "Cách phát âm nguyên âm đơn Long - Short o",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_10/playlist.m3u8?v=5",
+              "time": "5:02"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 111,
+              "title": "Luyện tập NGHE nguyên âm đơn Long - short o",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_11/playlist.m3u8?v=5",
+              "time": "3:36"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 112,
+              "title": "Cách phát âm nguyên âm đơn Long - Short 3",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_12/playlist.m3u8?v=5",
+              "time": "4.46"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 113,
+              "title": "Luyện tập NGHE nguyên âm đơn Long - short 3",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_13/playlist.m3u8?v=5",
+              "time": "7:15"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 114,
+              "title": "Cách Phát Âm Nguyên Âm Đôi",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_14/playlist.m3u8?v=5",
+              "time": "4:01"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 115,
+              "title": "Luyện tập NGHE Nguyên Âm Đôi.mp4",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_15/playlist.m3u8?v=5",
+              "time": "6:38"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 116,
+              "title": "Tổng Quan Phụ Âm",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_16/playlist.m3u8?v=5",
+              "time": "4:25"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 117,
+              "title": "Phụ Âm t-d",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_17/playlist.m3u8?v=5",
+              "time": "6:45"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 118,
+              "title": "Phụ Âm k-g",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_18/playlist.m3u8?v=5",
+              "time": "4:56"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 119,
+              "title": "Phụ Âm s-z",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_19/playlist.m3u8?v=5",
+              "time": "3:48"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 120,
+              "title": "Cách phát âm Phụ Âm sh-3",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_20/playlist.m3u8?v=5",
+              "time": "5:36"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 121,
+              "title": "Luyện tập NGHE-NÓI phụ âm Sh- 3",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_21/playlist.m3u8?v=5",
+              "time": "2.42"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 122,
+              "title": "Cách phát âm phụ Âm ts-d3",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_22/playlist.m3u8?v=5",
+              "time": "4:01"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 123,
+              "title": "Luyện tập NÓI Phụ Âm ts-d3.mp4",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_23/playlist.m3u8?v=5",
+              "time": "2:33"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 124,
+              "title": "Cách phát âm Phụ Âm TH",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_24/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 125,
+              "title": "Luyện tập NGHE phụ âm TH",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_25/playlist.m3u8?v=5",
+              "time": "2:36"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 126,
+              "title": "Cách phát âm phụ âm m-n-ng-h-j-l-r-w",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_26/playlist.m3u8?v=5",
+              "time": "4:59"
+          },
+          {
+              "lectureGroup": 1,
+              "index": 127,
+              "title": "Luyện NGHE - NÓI phụ âm m-n-ng-h-j-l-r-w Pract.mp4",
+              "url": "https://course3.alexdsing.com/24day/video/nguam_27/playlist.m3u8?v=5",
+              "time": "4:08"
+          }
+      ],
+      "2": [
+          {
+              "lectureGroup": 2,
+              "index": 21,
+              "title": "Hướng dẫn dẫn làm bài 1 - Getting ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit1_1/playlist.m3u8?v=5",
+              "time": "2:04"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 1200,
+              "type": "read",
+              "title": "Bài 1 - Getting ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit1/1.jpg",
+              "answer": "https://course3.alexdsing.com/24day/img/unit1/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 22,
+              "title": "Giải thích và cách phát âm bài 1 - Getting ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit1_2/playlist.m3u8?v=5",
+              "time": "3:05"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 23,
+              "title": "Hướng dẫn làm bài 2 - Let's listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit1_3/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 2300,
+              "type": "listen",
+              "title": "Bài 2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit1/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit1/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit1/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 24,
+              "title": "Hướng dẫn làm bài 3.1 - Let's listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit1_4/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 2400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit1/3.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit1/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit1/3_answer.jpg"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 25,
+              "title": "Hướng dẫn làm bài 3.2 - Let's listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit1_5/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 2500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit1/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit1/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit1/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 26,
+              "title": "Hướng dẫn làm bài 4.1 - Let's listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit1_6/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 2600,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit1/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit1/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit1/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 27,
+              "title": "Hướng dẫn làm bài 4.2 - Let's listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit1_7/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 2700,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit1/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit1/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit1/42_answer.jpg"
+          }
+      ],
+      "3": [
+          {
+              "lectureGroup": 3,
+              "index": 31,
+              "title": "Hướng dẫn làm bài 1. Getting Ready_1",
+              "url": "https://course3.alexdsing.com/24day/video/unit2_1/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 3100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit2/1.jpg",
+              "answer": "https://course3.alexdsing.com/24day/img/unit2/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 32,
+              "title": "Giải thích ý nghĩa từ vựng bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit2_2/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 33,
+              "title": "Hướng dẫn làm bài 2. Let's Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit2_3/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 3300,
+              "type": "listen",
+              "title": "Bài 2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit2/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit2/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit2/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 34,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit2_4/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 3400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit2/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit2/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit2/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 35,
+              "title": " Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit2_5/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 3500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit2/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit2/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit2/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 36,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen.",
+              "url": "https://course3.alexdsing.com/24day/video/unit2_6/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 3600,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit2/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit2/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit2/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 37,
+              "title": "Hướng dẫn làm bài 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit2_7/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 3700,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit2/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit2/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit2/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 39,
+              "title": "Giải thích bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit2_9/playlist.m3u8?v=5",
+              "time": "4:29"
+          }
+      ],
+      "4": [
+          {
+              "lectureGroup": 4,
+              "index": 41,
+              "title": "Hướng dẫn dẫn làm bài 1 - Getting ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit3_1/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 410,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit3/1.jpg",
+              "answer": "https://course3.alexdsing.com/24day/img/unit3/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 4,
+              "index": 42,
+              "title": "Giải thích ý nghĩa từ vựng bài 1 - Getting ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit3_2/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 4,
+              "index": 43,
+              "title": "Hướng dẫn làm bài nghe 2 - Let's listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit3_3/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 3,
+              "index": 4300,
+              "type": "listen",
+              "title": "Bài 2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit3/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit3/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit3/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 4,
+              "index": 44,
+              "title": "Giải thích bài nghe 2 - Let's listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit3_4/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 4,
+              "index": 45,
+              "title": "Hướng dẫn làm bài nghe 3.1 - Let's listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit3_5/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 4,
+              "index": 4500,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit3/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit3/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit3/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 4,
+              "index": 46,
+              "title": "Hướng dẫn làm bài nghe 3.2 - Let's listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit3_6/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 4,
+              "index": 4600,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit3/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit3/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit3/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 4,
+              "index": 47,
+              "title": "Hướng dẫn làm bài nghe 4.1 - Let's listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit3_7/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 4,
+              "index": 4700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit3/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit3/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit3/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 4,
+              "index": 48,
+              "title": "Giải thích ý nghĩa bài nghe 4.1 và hướng dẫn làm bài nghe 4.2 - Let's listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit3_8/playlist.m3u8?v=5",
+              "time": "4:29"
+          },
+          {
+              "lectureGroup": 4,
+              "index": 4800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit3/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit3/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit3/42_answer.jpg"
+          }
+      ],
+      "5": [
+          {
+              "lectureGroup": 5,
+              "index": 51,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit4_1/playlist.m3u8?v=5",
+              "time": "1:13",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 5100,
+              "type": "read",
+              "title": "Bài 1.1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit4/11.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit4/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit4/11_answer.jpg",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 5101,
+              "type": "read",
+              "title": "Bài 1.2 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit4/12.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit4/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit4/12_answer.jpg",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 52,
+              "title": "Giải thích ý nghĩa từ vựng bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit4_2/playlist.m3u8?v=5",
+              "time": "5:19",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 53,
+              "title": "Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit4_3/playlist.m3u8?v=5",
+              "time": "0:41",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 5300,
+              "type": "listen",
+              "title": "Bài 2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit4/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit4/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit4/2_answer.jpg",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 54,
+              "title": "Giải thích bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit4_4/playlist.m3u8?v=5",
+              "time": "4:01",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 55,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit4_5/playlist.m3u8?v=5",
+              "time": "1:10",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 5500,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit4/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit4/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit4/31_answer.jpg",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 56,
+              "title": "Giải thích bài nghe 3.1. và Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit4_6/playlist.m3u8?v=5",
+              "time": "5:07",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 5600,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit4/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit4/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit4/32_answer.jpg",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 57,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit4_7/playlist.m3u8?v=5",
+              "time": "3:50",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 58,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit4_8/playlist.m3u8?v=5",
+              "time": "0:49",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 5800,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit4/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit4/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit4/41_answer.jpg",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 59,
+              "title": "Giải thích bài nghe 4.1 và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit4_9/playlist.m3u8?v=5",
+              "time": "3:11",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 5900,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit4/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit4/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit4/42_answer.jpg",
+              "free": true
+          },
+          {
+              "lectureGroup": 5,
+              "index": 510,
+              "title": "Giải thích bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit4_10/playlist.m3u8?v=5",
+              "time": "2:15",
+              "free": true
+          }
+      ],
+      "6": [
+          {
+              "lectureGroup": 6,
+              "index": 61,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit5_1/playlist.m3u8?v=5",
+              "time": "0:55"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 6100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit5/11.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit5/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit5/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 62,
+              "title": "Giải thích ý nghĩa bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit5_2/playlist.m3u8?v=5",
+              "time": "5:36"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 6200,
+              "type": "listen",
+              "title": "Bài 2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit5/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit5/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit5/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 63,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit5_3/playlist.m3u8?v=5",
+              "time": "3:29"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 64,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit5_4/playlist.m3u8?v=5",
+              "time": "1:22"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 6400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit5/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit5/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit5/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 65,
+              "title": "Giải thích bài nghe 3.1 và Hướng dẫn bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit5_5/playlist.m3u8?v=5",
+              "time": "5:17"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 6500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit5/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit5/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit5/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 66,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit5_6/playlist.m3u8?v=5",
+              "time": "2:50"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 67,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit5_7/playlist.m3u8?v=5",
+              "time": "0:35"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 6700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit5/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit5/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit5/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 68,
+              "title": "Giải thích ý nghĩa bài nghe 4.1 và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit5_8/playlist.m3u8?v=5",
+              "time": "3:04"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 6800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit5/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit5/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit5/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 6,
+              "index": 69,
+              "title": "18 - Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit5_9/playlist.m3u8?v=5",
+              "time": "1:59"
+          }
+      ],
+      "7": [
+          {
+              "lectureGroup": 7,
+              "index": 71,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit6_1/playlist.m3u8?v=5",
+              "time": "0:31"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 7100,
+              "type": "read",
+              "title": "Bài 1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit6/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit6/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit6/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 72,
+              "title": "Giải thích ý nghĩa từ vựng bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit6_2/playlist.m3u8?v=5",
+              "time": "3:19"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 73,
+              "title": "Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit6_3/playlist.m3u8?v=5",
+              "time": "0:14"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 7300,
+              "type": "listen",
+              "title": "Bài 2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit6/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit6/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit6/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 74,
+              "title": "Giải thích bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit6_4/playlist.m3u8?v=5",
+              "time": "2:57"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 75,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit6_5/playlist.m3u8?v=5",
+              "time": "0:32"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 7500,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit6/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit6/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit6/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 76,
+              "title": "Hướng dẫn bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit6_6/playlist.m3u8?v=5",
+              "time": "4:43"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 7600,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit6/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit6/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit6/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 77,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit6_7/playlist.m3u8?v=5",
+              "time": "3:18"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 78,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit6_8/playlist.m3u8?v=5",
+              "time": "0:24"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 7800,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit6/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit6/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit6/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 79,
+              "title": "Giải thích bài nghe 4.1 và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit6_9/playlist.m3u8?v=5",
+              "time": "3:03"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 7900,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit6/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit6/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit6/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 7,
+              "index": 710,
+              "title": "Giải thích bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit6_10/playlist.m3u8?v=5",
+              "time": "3:56"
+          }
+      ],
+      "8": [
+          {
+              "lectureGroup": 8,
+              "index": 81,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit7_1/playlist.m3u8?v=5",
+              "time": "0:41"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 8100,
+              "type": "read",
+              "title": "Bài 1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit7/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit7/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit7/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 82,
+              "title": "Giải thích ý nghĩa bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit7_2/playlist.m3u8?v=5",
+              "time": "2:34"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 8200,
+              "type": "listen",
+              "title": "Bài 2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit7/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit7/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit7/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 83,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit7_3/playlist.m3u8?v=5",
+              "time": "3:35"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 84,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit7_4/playlist.m3u8?v=5",
+              "time": "0:33"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 8400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit7/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit7/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit7/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 85,
+              "title": "Giải thích bài nghe 3.1 và Hướng dẫn bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit7_5/playlist.m3u8?v=5",
+              "time": "2:53"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 8500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit7/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit7/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit7/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 86,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit7_6/playlist.m3u8?v=5",
+              "time": "5:19"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 87,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit7_7/playlist.m3u8?v=5",
+              "time": "0:41"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 8700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit7/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit7/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit7/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 88,
+              "title": "Giải thích ý nghĩa bài nghe 4.1 và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit7_8/playlist.m3u8?v=5",
+              "time": "3:50"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 8800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit7/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit7/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit7/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 8,
+              "index": 89,
+              "title": "18 - Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit7_9/playlist.m3u8?v=5",
+              "time": "3:01"
+          }
+      ],
+      "9": [
+          {
+              "lectureGroup": 9,
+              "index": 91,
+              "title": "Hướng dẫn làm bài 1.1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit8_1/playlist.m3u8?v=5",
+              "time": "0:56"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 9100,
+              "type": "read",
+              "title": "Bài 1.1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit8/11.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit8/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit8/11_answer.jpg"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 92,
+              "title": "Giải thích ý nghĩa từ vựng bài 1.1 và Hướng dẫn làm bài 1.2. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit8_2/playlist.m3u8?v=5",
+              "time": "1:41"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 9200,
+              "type": "read",
+              "title": "Bài 1.2 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit8/12.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit8/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit8/11_answer.jpg"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 93,
+              "title": "Giải thích ý nghĩa từ vựng bài 1.2. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit8_3/playlist.m3u8?v=5",
+              "time": "2:37"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 94,
+              "title": "Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit8_4/playlist.m3u8?v=5",
+              "time": "0:47"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 9400,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit8/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit8/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit8/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 95,
+              "title": "Giải thích bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit8_5/playlist.m3u8?v=5",
+              "time": "1:43"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 96,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit8_6/playlist.m3u8?v=5",
+              "time": "0:46"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 9600,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit8/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit8/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit8/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 97,
+              "title": "Giải thích ý nghĩa bài nghe 3.1 và Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit8_7/playlist.m3u8?v=5",
+              "time": "4:33"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 9700,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit8/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit8/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit8/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 98,
+              "title": "Giải thích ý nghĩa bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit8_8/playlist.m3u8?v=5",
+              "time": "6:45"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 99,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit8_9/playlist.m3u8?v=5",
+              "time": "1:06"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 9900,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit8/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit8/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit8/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 910,
+              "title": "Giải thích bài nghe 4.1 và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit8_10/playlist.m3u8?v=5",
+              "time": "4:44"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 91000,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit8/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit8/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit8/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 9,
+              "index": 911,
+              "title": "Giải thích bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit8_11/playlist.m3u8?v=5",
+              "time": "2:53"
+          }
+      ],
+      "10": [
+          {
+              "lectureGroup": 10,
+              "index": 101,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit9_1/playlist.m3u8?v=5",
+              "time": "0:57"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 1010,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit9/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit9/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit9/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 102,
+              "title": "Giải thích ý nghĩa bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit9_2/playlist.m3u8?v=5",
+              "time": "3:11"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 10200,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit9/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit9/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit9/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 103,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit9_3/playlist.m3u8?v=5",
+              "time": "3:38"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 104,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit9_4/playlist.m3u8?v=5",
+              "time": "0:32"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 10400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit9/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit9/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit9/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 105,
+              "title": "Giải thích bài nghe 3.1 và Hướng dẫn bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit9_5/playlist.m3u8?v=5",
+              "time": "3:37"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 10500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit9/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit9/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit9/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 106,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit9_6/playlist.m3u8?v=5",
+              "time": "1:25"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 107,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit9_7/playlist.m3u8?v=5",
+              "time": "0:38"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 10700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit9/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit9/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit9/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 108,
+              "title": "Giải thích ý nghĩa bài nghe 4.1 và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit9_8/playlist.m3u8?v=5",
+              "time": "4:11"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 10800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit9/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit9/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit9/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 10,
+              "index": 109,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit9_9/playlist.m3u8?v=5",
+              "time": "3:50"
+          }
+      ],
+      "11": [
+          {
+              "lectureGroup": 11,
+              "index": 111,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit10_1/playlist.m3u8?v=5",
+              "time": "1:00"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 11100,
+              "type": "read",
+              "title": "Bài 1 - Getting Read",
+              "img": "https://course3.alexdsing.com/24day/img/unit10/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit10/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit10/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 112,
+              "title": "Giải thích ý nghĩa bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit10_2/playlist.m3u8?v=5",
+              "time": "3:27"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 11200,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit10/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit10/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit10/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 113,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit10_3/playlist.m3u8?v=5",
+              "time": "3:12"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 114,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit10_4/playlist.m3u8?v=5",
+              "time": "1:04"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 11400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit10/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit10/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit10/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 115,
+              "title": "Giải thích bài nghe 3.1 và Hướng dẫn bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit10_5/playlist.m3u8?v=5",
+              "time": "2:49"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 11500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit10/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit10/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit10/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 116,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit10_6/playlist.m3u8?v=5",
+              "time": "2:18"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 117,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit10_7/playlist.m3u8?v=5",
+              "time": "0:35"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 11700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit10/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit10/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit10/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 118,
+              "title": "Giải thích ý nghĩa bài nghe 4.1 và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit10_8/playlist.m3u8?v=5",
+              "time": "2:05"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 11800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit10/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit10/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit10/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 11,
+              "index": 119,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit10_9/playlist.m3u8?v=5",
+              "time": "2:20"
+          }
+      ],
+      "12": [
+          {
+              "lectureGroup": 12,
+              "index": 121,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit11_1/playlist.m3u8?v=5",
+              "time": "0:39"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 12100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit11/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit11/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit11/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 122,
+              "title": "Giải thích ý nghĩa từ vựng bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit11_2/playlist.m3u8?v=5",
+              "time": "4:15"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 12200,
+              "type": "listen",
+              "title": "Bài 2.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit11/21.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit11/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit11/21_answer.jpg"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 123,
+              "title": "Giải thích ý nghĩa bài nghe 2.1 và Hướng dẫn làm bài nghe 2.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit11_3/playlist.m3u8?v=5",
+              "time": "3:11"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 12300,
+              "type": "listen",
+              "title": "Bài 2.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit11/22.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit11/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit11/22_answer.jpg"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 124,
+              "title": "Giải thích ý nghĩa bài nghe 2.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit11_4/playlist.m3u8?v=5",
+              "time": "1:23"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 125,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit11_5/playlist.m3u8?v=5",
+              "time": "1:20"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 12500,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit11/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit11/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit11/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 126,
+              "title": "Giải thích bài nghe 3.1 và Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit11_6/playlist.m3u8?v=5",
+              "time": "4:13"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 12600,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit11/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit11/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit11/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 127,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit11_7/playlist.m3u8?v=5",
+              "time": "2:38"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 128,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit11_8/playlist.m3u8?v=5",
+              "time": "1:50"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 12800,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit11/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit11/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit11/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 129,
+              "title": "Giải thích bài nghe 4.1 và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit11_9/playlist.m3u8?v=5",
+              "time": "5:20"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 12900,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit11/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit11/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit11/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 12,
+              "index": 1210,
+              "title": "Giải thích bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit11_10/playlist.m3u8?v=5",
+              "time": "5:20"
+          }
+      ],
+      "13": [
+          {
+              "lectureGroup": 13,
+              "index": 131,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit12_1/playlist.m3u8?v=5",
+              "time": "1:16"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 13100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit12/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit12/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit12/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 132,
+              "title": "Giải thích ý nghĩa bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit12_2/playlist.m3u8?v=5",
+              "time": "5:10"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 133,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit12_3/playlist.m3u8?v=5",
+              "time": "2:39"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 13300,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit12/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit12/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit12/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 134,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit12_4/playlist.m3u8?v=5",
+              "time": "1:14"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 13400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit12/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit12/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit12/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 135,
+              "title": "Giải thích bài nghe 3.1 và Hướng dẫn bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit12_5/playlist.m3u8?v=5",
+              "time": "4:05"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 13500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit12/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit12/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit12/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 136,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit12_6/playlist.m3u8?v=5",
+              "time": "2:39"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 137,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit12_7/playlist.m3u8?v=5",
+              "time": "0:37"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 13700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit12/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit12/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit12/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 138,
+              "title": "Giải thích ý nghĩa bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit12_8/playlist.m3u8?v=5",
+              "time": "5:46"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 13800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit12/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit12/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit12/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 13,
+              "index": 139,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit12_9/playlist.m3u8?v=5",
+              "time": "2:13"
+          }
+      ],
+      "14": [
+          {
+              "lectureGroup": 14,
+              "index": 141,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit13_1/playlist.m3u8?v=5",
+              "time": "0:59"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 14100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit13/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit13/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit13/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 142,
+              "title": "Giải thích ý nghĩa từ vựng bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit13_2/playlist.m3u8?v=5",
+              "time": "4:36"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 14200,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit13/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit13/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit13/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 143,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit13_3/playlist.m3u8?v=5",
+              "time": "1:57"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 144,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit13_4/playlist.m3u8?v=5",
+              "time": "0:42"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 14400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit13/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit13/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit13/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 145,
+              "title": "Giải thích bài nghe 3.1 và Hướng dẫn bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit13_5/playlist.m3u8?v=5",
+              "time": "6:16"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 14500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit13/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit13/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit13/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 146,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit13_6/playlist.m3u8?v=5",
+              "time": "3:41"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 147,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit13_7/playlist.m3u8?v=5",
+              "time": "1:44"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 14700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit13/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit13/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit13/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 148,
+              "title": "Giải thích bài nghe 4.1 và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit13_8/playlist.m3u8?v=5",
+              "time": "4:21"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 14800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit13/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit13/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit13/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 14,
+              "index": 149,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit13_9/playlist.m3u8?v=5",
+              "time": "3:22"
+          }
+      ],
+      "15": [
+          {
+              "lectureGroup": 15,
+              "index": 151,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit14_1/playlist.m3u8?v=5",
+              "time": "1:15"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 15100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit14/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit14/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit14/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 152,
+              "title": "Giải thích ý nghĩa từ vựng bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit14_2/playlist.m3u8?v=5",
+              "time": "5:30"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 15200,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit14/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit14/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit14/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 153,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit14_3/playlist.m3u8?v=5",
+              "time": "2:51"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 154,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit14_4/playlist.m3u8?v=5",
+              "time": "0:25"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 15400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit14/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit14/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit14/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 155,
+              "title": "Giải thích ý nghĩa bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit14_5/playlist.m3u8?v=5",
+              "time": "2:47"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 15500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit14/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit14/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit14/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 156,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit14_6/playlist.m3u8?v=5",
+              "time": "2:31"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 157,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit14_7/playlist.m3u8?v=5",
+              "time": "1:00"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 15700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit14/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit14/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit14/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 158,
+              "title": "Giải thích ý nghĩa bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit14_8/playlist.m3u8?v=5",
+              "time": "3:32"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 15800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit14/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit14/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit14/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 159,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit14_9/playlist.m3u8?v=5",
+              "time": "2:35"
+          }
+      ],
+      "16": [
+          {
+              "lectureGroup": 16,
+              "index": 161,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit15_1/playlist.m3u8?v=5",
+              "time": "0:56"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 16100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit15/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit15/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit15/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 162,
+              "title": "Giải thích ý nghĩa từ vựng bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit15_2/playlist.m3u8?v=5",
+              "time": "3:36"
+          },
+          {
+              "lectureGroup": 15,
+              "index": 16200,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit15/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit15/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit15/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 163,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit15_3/playlist.m3u8?v=5",
+              "time": "1:16"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 164,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit15_4/playlist.m3u8?v=5",
+              "time": "1:14"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 16400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit15/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit15/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit15/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 165,
+              "title": "Giải thích ý nghĩa bài nghe 3.1 và Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit15_5/playlist.m3u8?v=5",
+              "time": "3:04"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 16500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit15/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit15/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit15/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 166,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit15_6/playlist.m3u8?v=5",
+              "time": "2:12"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 167,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit15_7/playlist.m3u8?v=5",
+              "time": "0:28"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 16700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit15/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit15/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit15/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 168,
+              "title": "Giải thích ý nghĩa bài nghe 4.1. và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit15_8/playlist.m3u8?v=5",
+              "time": "3:34"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 16800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit15/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit15/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit15/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 16,
+              "index": 169,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit15_9/playlist.m3u8?v=5",
+              "time": "5:14"
+          }
+      ],
+      "17": [
+          {
+              "lectureGroup": 17,
+              "index": 171,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit16_1/playlist.m3u8?v=5",
+              "time": "2:07"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 17100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit16/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit16/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit16/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 172,
+              "title": "Giải thích ý nghĩa bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit16_2/playlist.m3u8?v=5",
+              "time": "4:13"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 17200,
+              "type": "listen",
+              "title": "Bài 2.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit16/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit16/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit16/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 173,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit16_3/playlist.m3u8?v=5",
+              "time": "1:33"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 174,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit16_4/playlist.m3u8?v=5",
+              "time": "0:37"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 17400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit16/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit16/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit16/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 175,
+              "title": "Giải thích ý nghĩa bài nghe 3.1 và Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit16_5/playlist.m3u8?v=5",
+              "time": "2:31"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 17500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit16/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit16/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit16/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 176,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit16_6/playlist.m3u8?v=5",
+              "time": "1:09"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 177,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit16_7/playlist.m3u8?v=5",
+              "time": "0:54"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 17700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit16/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit16/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit16/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 178,
+              "title": "Giải thích ý nghĩa bài nghe 4.1. và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit16_8/playlist.m3u8?v=5",
+              "time": "3:50"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 17800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit16/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit16/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit16/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 17,
+              "index": 179,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit16_9/playlist.m3u8?v=5",
+              "time": "2:44"
+          }
+      ],
+      "18": [
+          {
+              "lectureGroup": 18,
+              "index": 181,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit17_1/playlist.m3u8?v=5",
+              "time": "1:35"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 18100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit17/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit17/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit17/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 182,
+              "title": "Giải thích ý nghĩa từ vựng bài 1. Getting Ready và Hướng dẫn làm bài nghe 2.1 Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit17_2/playlist.m3u8?v=5",
+              "time": "3:26"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 18200,
+              "type": "listen",
+              "title": "Bài 2.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit17/21.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit17/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit17/21_answer.jpg"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 183,
+              "title": "Giải thích ý nghĩa bài nghe 2.1 và Hướng dẫn làm bài nghe 2.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit17_3/playlist.m3u8?v=5",
+              "time": "1:32"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 18300,
+              "type": "listen",
+              "title": "Bài 2.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit17/22.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit17/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit17/22_answer.jpg"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 184,
+              "title": "Giải thích ý nghĩa bài nghe 2.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit17_4/playlist.m3u8?v=5",
+              "time": "1:13"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 185,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit17_5/playlist.m3u8?v=5",
+              "time": "0:33"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 17500,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit17/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit17/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit17/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 186,
+              "title": "Giải thích ý nghĩa bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit17_6/playlist.m3u8?v=5",
+              "time": "2:34"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 18600,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit17/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit17/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit17/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 187,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit17_7/playlist.m3u8?v=5",
+              "time": "2:45"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 188,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit17_8/playlist.m3u8?v=5",
+              "time": "0:33"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 18800,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit17/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit17/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit17/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 189,
+              "title": "Giải thích ý nghĩa bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit17_9/playlist.m3u8?v=5",
+              "time": "2:44"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 18900,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit17/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit17/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit17/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 18,
+              "index": 1810,
+              "title": "Giải thích bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit17_10/playlist.m3u8?v=5",
+              "time": "2:36"
+          }
+      ],
+      "19": [
+          {
+              "lectureGroup": 19,
+              "index": 191,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit18_1/playlist.m3u8?v=5",
+              "time": "0:58"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 19100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit18/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit18/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit18/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 192,
+              "title": "Giải thích ý nghĩa từng vựng bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit18_2/playlist.m3u8?v=5",
+              "time": "3:28"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 19200,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit18/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit18/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit18/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 193,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit18_3/playlist.m3u8?v=5",
+              "time": "4:26"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 194,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit18_4/playlist.m3u8?v=5",
+              "time": "0:33"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 19400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit18/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit18/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit18/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 195,
+              "title": "Giải thích ý nghĩa bài nghe 3.1 và Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit18_5/playlist.m3u8?v=5",
+              "time": "2:32"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 19500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit18/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit18/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit18/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 196,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit18_6/playlist.m3u8?v=5",
+              "time": "4:41"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 197,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit18_7/playlist.m3u8?v=5",
+              "time": "0:57"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 19700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit18/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit18/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit18/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 198,
+              "title": "Giải thích ý nghĩa bài nghe 4.1. và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit18_8/playlist.m3u8?v=5",
+              "time": "2:59"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 19800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit18/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit18/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit18/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 19,
+              "index": 199,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit18_9/playlist.m3u8?v=5",
+              "time": "3:02"
+          }
+      ],
+      "20": [
+          {
+              "lectureGroup": 20,
+              "index": 201,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit19_1/playlist.m3u8?v=5",
+              "time": "0:40"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 20100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit19/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit19/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit19/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 202,
+              "title": "Giải thích ý nghĩa từng vựng bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit19_2/playlist.m3u8?v=5",
+              "time": "4:04"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 20200,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit19/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit19/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit19/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 203,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit19_3/playlist.m3u8?v=5",
+              "time": "2:12"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 204,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit19_4/playlist.m3u8?v=5",
+              "time": "0:48"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 20400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit19/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit19/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit19/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 205,
+              "title": "Giải thích ý nghĩa bài nghe 3.1 và Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit19_5/playlist.m3u8?v=5",
+              "time": "4:54"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 20500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit19/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit19/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit19/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 206,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit19_6/playlist.m3u8?v=5",
+              "time": "1:23"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 207,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit19_7/playlist.m3u8?v=5",
+              "time": "0:32"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 20700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit19/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit19/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit19/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 208,
+              "title": "Giải thích ý nghĩa bài nghe 4.1. và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit19_8/playlist.m3u8?v=5",
+              "time": "3:22"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 20800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit19/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit19/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit19/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 20,
+              "index": 209,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit19_9/playlist.m3u8?v=5",
+              "time": "3:27"
+          }
+      ],
+      "21": [
+          {
+              "lectureGroup": 21,
+              "index": 211,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit20_1/playlist.m3u8?v=5",
+              "time": "0:48"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 21100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit20/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit20/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit20/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 212,
+              "title": "Giải thích ý nghĩa từng vựng bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit20_2/playlist.m3u8?v=5",
+              "time": "5:17"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 21200,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit20/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit20/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit20/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 213,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit20_3/playlist.m3u8?v=5",
+              "time": "2:24"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 214,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit20_4/playlist.m3u8?v=5",
+              "time": "0:42"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 21400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit20/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit20/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit20/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 215,
+              "title": "Giải thích ý nghĩa bài nghe 3.1 và Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit20_5/playlist.m3u8?v=5",
+              "time": "4:20"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 216,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit20_6/playlist.m3u8?v=5",
+              "time": "2:22"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 21600,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit20/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit20/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit20/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 217,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit20_7/playlist.m3u8?v=5",
+              "time": "0:32"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 21700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit20/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit20/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit20/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 218,
+              "title": "Giải thích ý nghĩa bài nghe 4.1. và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit20_8/playlist.m3u8?v=5",
+              "time": "3:31"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 21800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit20/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit20/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit20/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 21,
+              "index": 219,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit20_9/playlist.m3u8?v=5",
+              "time": "3:11"
+          }
+      ],
+      "22": [
+          {
+              "lectureGroup": 22,
+              "index": 221,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit21_1/playlist.m3u8?v=5",
+              "time": "1:26"
+          },
+          {
+              "lectureGroup": 2,
+              "index": 22100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit21/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit21/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit21/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 222,
+              "title": "Giải thích ý nghĩa từng vựng bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit21_2/playlist.m3u8?v=5",
+              "time": "3:46"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 22200,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit21/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit21/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit21/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 223,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit21_3/playlist.m3u8?v=5",
+              "time": "1:44"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 224,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit21_4/playlist.m3u8?v=5",
+              "time": "1:11"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 22400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit21/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit21/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit21/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 225,
+              "title": "Giải thích ý nghĩa bài nghe 3.1 và Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit21_5/playlist.m3u8?v=5",
+              "time": "4:34"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 22500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit21/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit21/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit21/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 226,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit21_6/playlist.m3u8?v=5",
+              "time": "2:28"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 227,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit21_7/playlist.m3u8?v=5",
+              "time": "0:38"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 22700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit21/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit21/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit21/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 228,
+              "title": "Giải thích ý nghĩa bài nghe 4.1. và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit21_8/playlist.m3u8?v=5",
+              "time": "4:40"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 22800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit21/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit21/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit21/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 229,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit21_9/playlist.m3u8?v=5",
+              "time": "2:07"
+          }
+      ],
+      "23": [
+          {
+              "lectureGroup": 23,
+              "index": 231,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit22_1/playlist.m3u8?v=5",
+              "time": "4:44"
+          },
+          {
+              "lectureGroup": 23,
+              "index": 23100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit22/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit22/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit22/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 22,
+              "index": 23101,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit22/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit22/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit22/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 23,
+              "index": 232,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit22_3/playlist.m3u8?v=5",
+              "time": "2:48"
+          },
+          {
+              "lectureGroup": 23,
+              "index": 233,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit22_4/playlist.m3u8?v=5",
+              "time": "0:52"
+          },
+          {
+              "lectureGroup": 23,
+              "index": 23300,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit22/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit22/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit22/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 23,
+              "index": 234,
+              "title": "Giải thích ý nghĩa bài nghe 3.1 và Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit22_5/playlist.m3u8?v=5",
+              "time": "3:34"
+          },
+          {
+              "lectureGroup": 23,
+              "index": 23400,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit22/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit22/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit22/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 23,
+              "index": 235,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit22_6/playlist.m3u8?v=5",
+              "time": "3:13"
+          },
+          {
+              "lectureGroup": 23,
+              "index": 236,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit22_7/playlist.m3u8?v=5",
+              "time": "0:51"
+          },
+          {
+              "lectureGroup": 23,
+              "index": 23600,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit22/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit22/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit22/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 23,
+              "index": 237,
+              "title": "Giải thích ý nghĩa bài nghe 4.1. và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit22_8/playlist.m3u8?v=5",
+              "time": "4:48"
+          },
+          {
+              "lectureGroup": 23,
+              "index": 23700,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit22/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit22/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit22/42_answer.jpg"
+          },
+          {
+              "index": 238,
+              "lectureGroup": 23,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit22_9/playlist.m3u8?v=5",
+              "time": "2:38"
+          }
+      ],
+      "24": [
+          {
+              "lectureGroup": 24,
+              "index": 241,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit23_1/playlist.m3u8?v=5",
+              "time": "1:17"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 24100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit23/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit23/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit23/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 242,
+              "title": "Giải thích ý nghĩa bài 1",
+              "url": "https://course3.alexdsing.com/24day/video/unit23_2/playlist.m3u8?v=5",
+              "time": "4:21"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 243,
+              "title": "Giải thích ý nghĩa từng vựng",
+              "url": "https://course3.alexdsing.com/24day/video/unit23_3/playlist.m3u8?v=5",
+              "time": "5:11"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 244,
+              "title": "Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit23_4/playlist.m3u8?v=5",
+              "time": "0:31"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 24400,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit23/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit23/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit23/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 245,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit23_5/playlist.m3u8?v=5",
+              "time": "5:31"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 246,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit23_6/playlist.m3u8?v=5",
+              "time": "0:55"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 24600,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit23/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit23/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit23/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 247,
+              "title": "Giải thích ý nghĩa bài nghe 3.1 và Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit23_7/playlist.m3u8?v=5",
+              "time": "3:03"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 24700,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit23/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit23/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit23/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 248,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit23_8/playlist.m3u8?v=5",
+              "time": "4:14"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 249,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit23_9/playlist.m3u8?v=5",
+              "time": "0:25"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 24900,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit23/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit23/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit23/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 2410,
+              "title": "Giải thích ý nghĩa bài nghe 4.1. và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit23_10/playlist.m3u8?v=5",
+              "time": "2:43"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 241000,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit23/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit23/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit23/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 24,
+              "index": 2411,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit23_11/playlist.m3u8?v=5",
+              "time": "5:23"
+          }
+      ],
+      "25": [
+          {
+              "lectureGroup": 25,
+              "index": 251,
+              "title": "Hướng dẫn làm bài 1. Getting Ready",
+              "url": "https://course3.alexdsing.com/24day/video/unit24_1/playlist.m3u8?v=5",
+              "time": "1:19"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 25100,
+              "type": "read",
+              "title": "Bài 1 - Getting Ready",
+              "img": "https://course3.alexdsing.com/24day/img/unit24/1.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit24/1.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit24/1_answer.jpg"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 252,
+              "title": "Giải thích ý nghĩa từng vựng bài 1. Getting Ready và Hướng dẫn làm bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit24_2/playlist.m3u8?v=5",
+              "time": "3:15"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 25200,
+              "type": "listen",
+              "title": "Bài 2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit24/2.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit24/2.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit24/2_answer.jpg"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 253,
+              "title": "Giải thích ý nghĩa bài nghe 2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit24_3/playlist.m3u8?v=5",
+              "time": "2:08"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 254,
+              "title": "Hướng dẫn làm bài nghe 3.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit24_4/playlist.m3u8?v=5",
+              "time": "0:39"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 25400,
+              "type": "listen",
+              "title": "Bài 3.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit24/31.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit24/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit24/31_answer.jpg"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 255,
+              "title": "Giải thích ý nghĩa bài nghe 3.1 và Hướng dẫn làm bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit24_5/playlist.m3u8?v=5",
+              "time": "2:12"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 25500,
+              "type": "listen",
+              "title": "Bài 3.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit24/32.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit24/3.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit24/32_answer.jpg"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 256,
+              "title": "Giải thích bài nghe 3.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit24_6/playlist.m3u8?v=5",
+              "time": "1:13"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 257,
+              "title": "Hướng dẫn làm bài nghe 4.1. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit24_7/playlist.m3u8?v=5",
+              "time": "0:43"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 25700,
+              "type": "listen",
+              "title": "Bài 4.1 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit24/41.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit24/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit24/41_answer.jpg"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 258,
+              "title": "Giải thích ý nghĩa bài nghe 4.1. và Hướng dẫn làm bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit24_8/playlist.m3u8?v=5",
+              "time": "1:37"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 25800,
+              "type": "listen",
+              "title": "Bài 4.2 - Let's Listen",
+              "img": "https://course3.alexdsing.com/24day/img/unit24/42.jpg",
+              "mp3": "https://course3.alexdsing.com/24day/img/unit24/4.mp3",
+              "answer": "https://course3.alexdsing.com/24day/img/unit24/42_answer.jpg"
+          },
+          {
+              "lectureGroup": 25,
+              "index": 259,
+              "title": "Giải thích ý nghĩa bài nghe 4.2. Let_s Listen",
+              "url": "https://course3.alexdsing.com/24day/video/unit24_9/playlist.m3u8?v=5",
+              "time": "3:13"
+          }
+      ],
+      "26": [
+          {
+              "lectureGroup": 26,
+              "index": 261,
+              "title": "Tổng kết khoá học",
+              "url": "https://course3.alexdsing.com/24day/video/tongket/playlist.m3u8?v=5",
+              "time": "1:25"
+          }
+      ]
+  }
+}
