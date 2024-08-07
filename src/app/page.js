@@ -21,7 +21,6 @@ export default function Home() {
   }, []);
 
   const handleChangeVideo = (item) => {
-    console.log("item", item);
     setVideoSrc(item);
     item.index && setActive(item.index);
   };
@@ -29,8 +28,6 @@ export default function Home() {
   const handleShowAnswer = () => {
     setShowAnswer(!showAnswer);
   };
-
-  console.log("active", active, typeof(active));
 
   const renderByType = (videoSrc) => {
     if (videoSrc?.type == "read") {

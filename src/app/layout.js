@@ -1,8 +1,7 @@
 // import { Inter } from "next/font/google";
 // import "./globals.css";
 import "../../public/styles/styles.scss";
-import Header from "@/components/Header/Header";
-import Footer from "@/components/Footer/Footer";
+import { StoreProvider } from "./StoreProvider";
 
 // import 'swiper/swiper-bundle.min.css';
 // import 'swiper/swiper.min.css';
@@ -19,12 +18,10 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body>
-        {/* <Header /> */}
-        {children}
-        {/* <Footer /> */}
-      </body>
-    </html>
+    <StoreProvider>
+      <html lang="en">
+        <body>{children}</body>
+      </html>
+    </StoreProvider>
   );
 }
