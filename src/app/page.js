@@ -6,11 +6,19 @@ import { Icon } from "@iconify/react";
 import VideoPlayer from "@/components/VideoPlayer";
 import Playlist from "@/components/Playlist";
 
+import { useDispatch, useSelector } from "react-redux";
+
+import { selectCount, checkAccount } from "@/lib/features/login/loginSlice";
+
 export default function Home() {
   const [data, setData] = useState(null);
   const [videoSrc, setVideoSrc] = useState({});
   const [showAnswer, setShowAnswer] = useState(false);
   const [active, setActive] = useState("1");
+  const username = useSelector(selectCount);
+  const dispatch = useDispatch();
+
+  console.log("username", username);
 
   useEffect(() => {
     // Fetch data from the public directory
@@ -27,6 +35,7 @@ export default function Home() {
 
   const handleShowAnswer = () => {
     setShowAnswer(!showAnswer);
+    dispatch(checkAccount({ username: "24days", password: "123456" }));
   };
 
   const renderByType = (videoSrc) => {
