@@ -5,20 +5,21 @@ import { Icon } from "@iconify/react";
 
 import VideoPlayer from "@/components/VideoPlayer";
 import Playlist from "@/components/Playlist";
+import LoginForm from "@/components/LoginForm";
 
 import { useDispatch, useSelector } from "react-redux";
 
-import { selectCount, checkAccount } from "@/lib/features/login/loginSlice";
+import { selectIsLogin, checkAccount } from "@/lib/features/login/loginSlice";
 
 export default function Home() {
   const [data, setData] = useState(null);
   const [videoSrc, setVideoSrc] = useState({});
   const [showAnswer, setShowAnswer] = useState(false);
   const [active, setActive] = useState("1");
-  const username = useSelector(selectCount);
+  const isLogin = useSelector(selectIsLogin);
   const dispatch = useDispatch();
 
-  console.log("username", username);
+  console.log("isLogin", isLogin);
 
   useEffect(() => {
     // Fetch data from the public directory
@@ -35,8 +36,11 @@ export default function Home() {
 
   const handleShowAnswer = () => {
     setShowAnswer(!showAnswer);
-    dispatch(checkAccount({ username: "24days", password: "123456" }));
   };
+
+  useEffect(() => {
+    console.log("123", isLogin);
+  }, [isLogin]);
 
   const renderByType = (videoSrc) => {
     if (videoSrc?.type == "read") {
@@ -94,36 +98,42 @@ export default function Home() {
   };
 
   return (
-    <div className="lecture-wrapper">
-      <div className="lecture-wrapper-ins">
-        {videoSrc && renderByType(videoSrc)}
-      </div>
-      <div className="lecture-wrapper-ins">
-        <ul className="list-top">
-          {data &&
-            data["lectureGroup"].map((lec, index) => {
-              return (
-                <li key={lec.id}>
-                  <span className="lec-title">{lec.title}</span>
-                  <ul className="lec-list">
-                    {data["lecture"][index].map((item, index) => {
-                      return (
-                        <li
-                          key={item.title}
-                          onClick={() => handleChangeVideo(item)}
-                          className={active == item?.index ? "active" : ""}
-                        >
-                          {item.title}
-                        </li>
-                      );
-                    })}
-                  </ul>
-                </li>
-              );
-            })}
-          <li></li>
-        </ul>
-      </div>
-    </div>
+    <>
+      {!isLogin ? (
+        <LoginForm />
+      ) : (
+        <div className="lecture-wrapper">
+          <div className="lecture-wrapper-ins">
+            {videoSrc && renderByType(videoSrc)}
+          </div>
+          <div className="lecture-wrapper-ins">
+            <ul className="list-top">
+              {data &&
+                data["lectureGroup"].map((lec, index) => {
+                  return (
+                    <li key={lec.id}>
+                      <span className="lec-title">{lec.title}</span>
+                      <ul className="lec-list">
+                        {data["lecture"][index].map((item, index) => {
+                          return (
+                            <li
+                              key={item.title}
+                              onClick={() => handleChangeVideo(item)}
+                              className={active == item?.index ? "active" : ""}
+                            >
+                              {item.title}
+                            </li>
+                          );
+                        })}
+                      </ul>
+                    </li>
+                  );
+                })}
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      )}
+    </>
   );
 }

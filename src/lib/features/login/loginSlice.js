@@ -32,16 +32,9 @@ export const loginSlice = createAppSlice({
 
     // Use the `PayloadAction` type to declare the contents of `action.payload`
     checkAccount: create.reducer((state, action) => {
-      console.log(
-        "action.payload",
-        action.payload,
-        action.payload.username == state.username &&
-          action.payload.password == state.password
-      );
       state.isLogin =
         action.payload.username == state.username &&
         action.payload.password == state.password;
-      //   state.value += action.payload;
     }),
 
     // The function below is called a thunk and allows us to perform async logic. It
